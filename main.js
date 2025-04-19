@@ -6,3 +6,4 @@ console.log('Hello Git!');
 /// 期間B已經建分支且 commit 多次
 // A第四次 commit
 // userB的第一次commit
+// userB 的第二次commit
