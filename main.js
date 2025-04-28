@@ -8,3 +8,4 @@ console.log('Hello Git!');
 /// B 第三次 commit
 
 // foxgame821 1st branch commit
+// assume foxgame821 has api
