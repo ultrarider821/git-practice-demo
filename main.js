@@ -6,3 +6,5 @@ console.log('Hello Git!');
 /// B 建分支後 第一次 commit
 /// B 第二次commit
 /// B 第三次 commit
+
+// foxgame821 1st branch commit
